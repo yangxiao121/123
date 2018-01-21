@@ -4414,9 +4414,8 @@
 }
 #u218 {
   position:fixed;
-  left:50%;
-  margin-left:-187.5px;
-  bottom:0px;
+  left:0px;
+  top:0px;
   width:375px;
   height:45px;
   overflow:hidden;
