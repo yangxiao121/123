@@ -4413,9 +4413,9 @@
   word-wrap:break-word;
 }
 #u218 {
-  position:fixed;
-  left:50%;
-  margin-left:-187.5px;
+  border-width:0px;
+  position:absolute;
+  left:0px;
   top:0px;
   width:375px;
   height:45px;
