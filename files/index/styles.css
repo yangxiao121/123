@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:910px;
+  width:364px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -13,9 +13,8 @@
   z-index:0;
 }
 #u0 {
-  position:fixed;
-  left:50%;
-  margin-left:-187.5px;
+  position:absolute;
+  left:0px;
   top:0px;
 }
 #u0_state0 {
@@ -4418,13 +4417,21 @@
   left:50%;
   margin-left:-187.5px;
   top:0px;
+  width:375px;
+  height:45px;
+  overflow:hidden;
 }
 #u218_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:45px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-color:rgba(26, 188, 156, 1);
   background-image:none;
 }
